@@ -211,31 +211,6 @@ An AI-powered PostgreSQL log analysis and search application focused on intellig
 
 ---
 
-### 🔎 AI Resume Search Engine
-
-Developing an AI-powered resume search platform combining structured filtering with semantic retrieval.
-
-**Architecture includes:**
-
-`FastAPI` • `PostgreSQL` • `DuckLake` • `Parquet` • `Qdrant` • `MinIO` • `Ollama` • `n8n` • `Streamlit` • `Python`
-
-**Key capabilities:**
-
-* 📄 Resume PDF ingestion.
-* 🗂️ ZIP-based bulk resume processing.
-* 🧩 Resume chunking and indexing.
-* 🧠 Embedding generation.
-* 🔎 Semantic vector search using Qdrant.
-* 🗃️ Structured resume metadata filtering.
-* 🔀 Hybrid search combining structured and semantic retrieval.
-* 🪣 MinIO-based resume storage.
-* ⚙️ n8n-based workflow orchestration.
-* 🚀 FastAPI backend services.
-* 📊 Streamlit search interface.
-* 🐳 Containerized processing architecture.
-
----
-
 ### 🧠 RAG & Graph RAG Applications
 
 Hands-on development of retrieval-augmented systems combining structured and unstructured information.
