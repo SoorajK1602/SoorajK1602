@@ -402,7 +402,7 @@ Docker containerization, Git, GitHub Actions CI/CD, deployment and infrastructur
 
 ### 📧 Get In Touch
 
-📧 **Email:** [soorajcarrom@gmail.com](mailto:soorajcarrom@gmail.com)
+📧 **Email:** [soorajkannan1602@gmail.com](mailto:soorajkannan1602@gmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/sooraj-k-56a9b52b0](https://linkedin.com/in/sooraj-k-56a9b52b0)
 
