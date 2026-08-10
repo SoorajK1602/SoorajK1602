@@ -2,7 +2,7 @@
 
 ### Data Engineer | AI Developer | Data Analytics | Generative AI
 
-📧 [soorajcarrom@gmail.com](mailto:soorajcarrom@gmail.com) | 📍 Madurai, India | 💼 [LinkedIn](https://linkedin.com/in/sooraj-k-56a9b52b0)
+📧 [soorajkannan1602@gmail.com](mailto:soorajcarrom@gmail.com) | 📍 Madurai, India | 💼 [LinkedIn](https://linkedin.com/in/sooraj-k-56a9b52b0)
 
 ---
 
